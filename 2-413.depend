@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1591214960 source:c:\users\пользователь\desktop\c-projects\2-413\main.cpp
+	<iostream>
+	"class.h"
+
+1591215256 c:\users\пользователь\desktop\c-projects\2-413\class.h
+	<cstring>
+	<iterator>
+	<vector>
+	<deque>
+
